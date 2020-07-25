@@ -12,6 +12,7 @@ Append the parameters to the URL:
 
 | Parameter | Value                                                                               |
 | --------- | ----------------------------------------------------------------------------------- |
+| \$type    | The desired animation effect (ef1 - ef9) e.g. "ef5"                                 |
 | \$text    | The text you would like to display. e.g. "Hello World"                              |
 | \$color   | The HEX code for the text color. e.g. "ffffff"                                      |
 | \$font    | The font you would like. It also supports google web fonts. e.g. "Permanent Marker" |
